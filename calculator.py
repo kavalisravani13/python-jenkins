@@ -1,7 +1,10 @@
 # calculator.py
 
-a = int(input("Enter first number: "))
-b = int(input("Enter second number: "))
+a = 20
+b = 10
+
+print("First Number =", a)
+print("Second Number =", b)
 
 print("Addition =", a + b)
 print("Subtraction =", a - b)
